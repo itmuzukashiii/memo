@@ -18,6 +18,3 @@
     C:\Users\DEVADMIN\AppData\Local\Programs\Microsoft VS Code\bin\code.cmd
     ```
 - `win + r` → `code` で起動可能
-
-
-
