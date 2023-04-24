@@ -40,3 +40,15 @@ Store License Terms: https://aka.ms/microsoft-store-license
   ストア製品 ID: 9NBLGGH3B0BP
 ```
 
+## パッケージを一括更新する
+
+```
+winget upgrade
+winget upgrade --all
+```
+
+`winget` を使ってインストールしていないものは更新できない場合がある．その場合は一度手動でアンインストールして `winget` で入れなおす．
+
+## 参考
+
+- https://dev.classmethod.jp/articles/use_windows_package_manager_winget/
